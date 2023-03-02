@@ -1,14 +1,16 @@
-/*
+/*** 
  * @Author: Chenxi
- * @Date: 2023-03-02 13:46:04
+ * @Date: 2023-03-02 16:42:00
+ * @LastEditTime: 2023-03-02 16:49:22
  * @LastEditors: Chenxi
- * @LastEditTime: 2023-03-02 14:17:25
- * @FilePath: /code/test.cpp
  * @Description: Code Learning
+ * @FilePath: \test\code\test.cpp
  */
 
+
 #include <iostream>
-#include <string>
+#include <string.h>
+
 using namespace std;
 int main(){
     int c =10;
