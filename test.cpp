@@ -2,7 +2,7 @@
  * @Author: Chenxi
  * @Date: 2023-04-07 12:59:19
  * @LastEditors: Chenxi
- * @LastEditTime: 2023-04-08 18:48:23
+ * @LastEditTime: 2024-06-08 20:53:49
  * @FilePath: /code/test.cpp
  * @Description: Code Learning
  */
@@ -27,5 +27,6 @@ int main(){
     //strcpy(b,a)
     cout<<strcpy(b,a)<<endl;
     cout<<"hello world"<<endl;
+    cout<<"github连接测试"<<endl;
     return 0;
 }
